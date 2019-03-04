@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tester()
+comment0.text=\r\n\ Default\ constructor.\ Initialise\ fields.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ A\ main()\ method.\r\n
+comment2.params=
+comment2.target=void\ doSetOperations()
+comment2.text=\r\n\ Perform\ various\ example\ operations\ with\ a\ (Hash)Set.\r\n
+comment3.params=
+comment3.target=java.util.HashSet\ createSet1()
+comment3.text=\r\n\ Create\ and\ return\ a\ new\ (Hash)Set\ which\ contains\ a\ selection\ of\ Person\ objects\r\n\ \r\n\ @return\ A\ new\ HashSet\ object\ with\ Person\ objects\ as\ its\ content\r\n
+comment4.params=
+comment4.target=java.util.HashSet\ createSet2()
+comment4.text=\r\n\ Create\ and\ return\ a\ new\ (Hash)Set\ which\ contains\ a\ different\ selection\ of\ Person\ objects\r\n\ \r\n\ @return\ A\ new\ HashSet\ object\ with\ Person\ objects\ as\ its\ content\r\n
+comment5.params=
+comment5.target=java.util.HashSet\ createSet3()
+comment5.text=\r\n\ Create\ and\ return\ a\ new\ (Hash)Set\ which\ contains\ a\ different\ selection\ of\ Person\ objects\r\n\ \r\n\ @return\ A\ new\ HashSet\ object\ with\ Person\ objects\ as\ its\ content\r\n
+comment6.params=personSet
+comment6.target=void\ printSet(java.util.HashSet)
+comment6.text=\r\n\ Display\ the\ contents\ of\ a\ given\ set\r\n\ \r\n\ @param\ personSet\ A\ reference\ to\ a\ HashSet\ object\ which\ contains\ a\ selection\ of\ Person\ objects\ as\ it\ contents\r\n
+numComments=7
